@@ -1,5 +1,5 @@
 September 5, 2023
-#lectures 
+#lecture
 
 ---
 

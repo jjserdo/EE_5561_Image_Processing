@@ -49,14 +49,60 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What is Image Processing.md",
+                "file": "Image formation.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "e331926477e85da2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a55038bcd608198",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Image Transformations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d6d63b41a47bd40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Image Transformations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd10da9172dd2538",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Files/syllabus.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -75,7 +121,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -122,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is Image Processing.md",
+                "file": "Files/syllabus.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What is Image Processing.md",
+                "file": "Files/syllabus.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What is Image Processing.md"
+                "file": "Files/syllabus.pdf"
               }
             }
           },
@@ -191,11 +237,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2302984e952e8d68",
+  "active": "bd10da9172dd2538",
   "lastOpenFiles": [
-    "Introduction.md",
+    "2D Signals and Systems.md",
+    "Image Transformations.md",
+    "Untitled.md",
+    "Basics.md",
     "Image formation.md",
     "What is Image Processing.md",
+    "Introduction.md",
     "What is an image.md"
   ]
 }
