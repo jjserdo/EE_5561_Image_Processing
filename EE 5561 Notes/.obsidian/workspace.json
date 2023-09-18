@@ -6,6 +6,7 @@
       {
         "id": "f58efa0b0409241e",
         "type": "tabs",
+        "dimension": 46.056955093099674,
         "children": [
           {
             "id": "4c5be38f55c89ddf",
@@ -13,9 +14,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction.md",
+                "file": "hh.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b4affeaa16543e99",
+        "type": "tabs",
+        "dimension": 53.943044906900326,
+        "children": [
+          {
+            "id": "35cdebbfa653440c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Files/Lecture01 - Intro to Course.pdf"
+              }
+            }
+          },
+          {
+            "id": "a309e7ea2b6b42cc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Files/Lecture02 - Transformations_2DSignalsSystems.pdf"
+              }
+            }
+          },
+          {
+            "id": "dbda43163f325ea2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Files/Lecture03 - 2DFS_Sampling_2DDSSignals.pdf"
               }
             }
           },
@@ -23,32 +61,14 @@
             "id": "b407307654b0d271",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "2D Discrete-Space Signals (Images).md",
-                "mode": "source",
-                "source": false
+                "file": "Files/Lecture04 - 2DDS_Filters_DFT.pdf"
               }
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "b4affeaa16543e99",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "28dd8184331fad36",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Files/Assignment1.pdf"
-              }
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Fouri",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2D Discrete-Space Signals (Images).md",
+                "file": "Files/Lecture03 - 2DFS_Sampling_2DDSSignals.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2D Discrete-Space Signals (Images).md",
+                "file": "Files/Lecture03 - 2DFS_Sampling_2DDSSignals.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2D Discrete-Space Signals (Images).md"
+                "file": "Files/Lecture03 - 2DFS_Sampling_2DDSSignals.pdf"
               }
             }
           },
@@ -193,15 +213,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b407307654b0d271",
+  "active": "dbda43163f325ea2",
   "lastOpenFiles": [
     "Files/Lecture04 - 2DDS_Filters_DFT.pdf",
     "Files/Lecture03 - 2DFS_Sampling_2DDSSignals.pdf",
-    "Untitled.md",
-    "Fourier Transform.md",
-    "Files/Assignment1.pdf",
-    "2D Discrete-Space Signals (Images).md",
+    "hh.md",
     "HW 1 Notes.md",
+    "Pasted image 20230916212047.png",
+    "Fourier Transform.md",
+    "Lecture 4 Notes.md",
+    "Files/Lecture02 - Transformations_2DSignalsSystems.pdf",
+    "Files/Lecture01 - Intro to Course.pdf",
+    "Files/Assignment1.pdf",
+    "Introduction.md",
+    "2D Discrete-Space Signals (Images).md",
     "Fourier Series.md",
     "Filtering in the Frequency Domain.md",
     "What is an image.md",
@@ -213,13 +238,10 @@
     "Sampling and Quantization.md",
     "Files/syllabus.pdf",
     "Sampling.md",
-    "Files/Lecture02 - Transformations_2DSignalsSystems.pdf",
     "Pasted image 20230910195247.png",
     "2D Signals and Systems.md",
-    "Introduction.md",
     "Untitled",
     "Files/lena512.bmp",
-    "Files/Lecture01 - Intro to Course.pdf",
     "Files/Assignment1_Problem5.py"
   ]
 }
