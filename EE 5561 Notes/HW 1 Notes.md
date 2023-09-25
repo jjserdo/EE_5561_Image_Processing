@@ -18,7 +18,8 @@ September 10, 2023
 - determine the energy
 > as of lecture 2, we don't know energy yet <xxx>
 
-aca
+[[Pasted image 20230910195247.png]]
+
 
 5. Programming Exercise
 

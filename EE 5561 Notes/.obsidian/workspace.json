@@ -4,66 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "f58efa0b0409241e",
+        "id": "b4affeaa16543e99",
         "type": "tabs",
-        "dimension": 46.056955093099674,
         "children": [
           {
-            "id": "4c5be38f55c89ddf",
+            "id": "05633f8b5d435c04",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Files/inpainting_exemplar.pdf"
+              }
+            }
+          },
+          {
+            "id": "7f3e58c7d8aed1f6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "bb874247df28ba61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hh.md",
+                "file": "Mini-Project 1 Notes.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "b4affeaa16543e99",
-        "type": "tabs",
-        "dimension": 53.943044906900326,
-        "children": [
-          {
-            "id": "35cdebbfa653440c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Files/Lecture01 - Intro to Course.pdf"
-              }
-            }
-          },
-          {
-            "id": "a309e7ea2b6b42cc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Files/Lecture02 - Transformations_2DSignalsSystems.pdf"
-              }
-            }
-          },
-          {
-            "id": "dbda43163f325ea2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Files/Lecture03 - 2DFS_Sampling_2DDSSignals.pdf"
-              }
-            }
-          },
-          {
-            "id": "b407307654b0d271",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Files/Lecture04 - 2DDS_Filters_DFT.pdf"
               }
             }
           }
@@ -97,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Fouri",
+                "query": "fou",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
   "right": {
     "id": "be5f2fe3f8ef0db5",
@@ -134,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Lecture03 - 2DFS_Sampling_2DDSSignals.pdf",
+                "file": "Mini-Project 1 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/Lecture03 - 2DFS_Sampling_2DDSSignals.pdf",
+                "file": "Mini-Project 1 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/Lecture03 - 2DFS_Sampling_2DDSSignals.pdf"
+                "file": "Mini-Project 1 Notes.md"
               }
             }
           },
@@ -213,18 +184,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dbda43163f325ea2",
+  "active": "bb874247df28ba61",
   "lastOpenFiles": [
+    "Files/tmpvkgc7siz",
+    "Pasted image 20230924150445.png",
+    "Mini-Project 1 Notes.md",
+    "Files/inpainting_exemplar.pdf",
+    "Files/Lecture06 - HistogramProceesing_Interpolation.pdf",
+    "Files/Lecture05 - NoiseReduction_Sharpening_EdgeDetection.pdf",
     "Files/Lecture04 - 2DDS_Filters_DFT.pdf",
     "Files/Lecture03 - 2DFS_Sampling_2DDSSignals.pdf",
-    "hh.md",
-    "HW 1 Notes.md",
-    "Pasted image 20230916212047.png",
+    "Files/Lecture02 - Transformations_2DSignalsSystems.pdf",
+    "Files/Serdoncillo HW1.pdf",
+    "Files/hw1 paper.pdf",
+    "Files/2023-09-22-18-34-merged.pdf",
+    "Files/2023-09-22-18-34.pdf",
+    "Files/images/cmag.png",
+    "Files/images/calias.png",
+    "Files/images/dnoisy.png",
+    "Files/images/dlena.png",
+    "Files/images/bhighlena.png",
+    "Files/images/blowlena.png",
+    "Files/images/bhigh.png",
+    "Files/images/blow.png",
+    "Files/images/amagpha.png",
+    "Lecture 6 Notes.md",
+    "Lecture 5 Notes.md",
     "Fourier Transform.md",
     "Lecture 4 Notes.md",
-    "Files/Lecture02 - Transformations_2DSignalsSystems.pdf",
-    "Files/Lecture01 - Intro to Course.pdf",
-    "Files/Assignment1.pdf",
+    "HW 1 Notes.md",
+    "hh.md",
     "Introduction.md",
     "2D Discrete-Space Signals (Images).md",
     "Fourier Series.md",
@@ -236,12 +225,7 @@
     "Image Transformations.md",
     "Mindset and Intro.md",
     "Sampling and Quantization.md",
-    "Files/syllabus.pdf",
     "Sampling.md",
-    "Pasted image 20230910195247.png",
-    "2D Signals and Systems.md",
-    "Untitled",
-    "Files/lena512.bmp",
-    "Files/Assignment1_Problem5.py"
+    "2D Signals and Systems.md"
   ]
 }
