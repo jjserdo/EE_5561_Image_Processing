@@ -29,6 +29,7 @@ def readImage(file):
     fig, ax = plt.subplots(dpi=300)
     ax.set_title("Original Image")
     ax.imshow(image)
+    ax.set_axis_off()
     
     return image
 
@@ -39,6 +40,7 @@ def getTarget(image):
     x2 = int(input("X - Coordinate of bottom right point: "))
     y2 = int(input("Y - Coordinate of bottom right point: "))
     target = np.full_like(image, 0)
+    source = np.full_like(image, 0)
     target[x1:x2, y1:y2, :] = image[x1:x2, y1:y2, :]
     source = image - target
     
@@ -46,16 +48,64 @@ def getTarget(image):
     fig, ax = plt.subplots(dpi=300)
     ax.set_title("Target Image")
     ax.imshow(target)
+    ax.set_axis_off()
+    
     fig, ax = plt.subplots(dpi=300)
     ax.set_title("Source Image")
     ax.imshow(source)
+    ax.set_axis_off()
     
     return target, source
+
+# %% Misc functions
+def computeContour():
+    """
+    calculates the (x,y) coordinates of all p surrounding the target
+
+    Returns
+    -------
+    contour list - 2 by len(contour) which is all of the x y coordinates of the contour
+    """
+    pass
+
+def computePriorities():
+    """
+    computes the priorities at every point p on the contour
+    
+    Needs
+    -------
+    image
+    contours
+    patch size
+    
+    Returns
+    -------
+    priorities - array of size len(contour)
+    """
+    pass
+
+def findPatch():
+    """
+    finds what patch to copy
+    
+    Needs
+    -------
+    source
+    p
+    patch size
+
+    Returns
+    -------
+    finds x and y location in the source
+
+    """
+    pass
+
 
 # %% Exemplar
 def exemplar(file):
     IMAGE = readImage(file)
-    TARGET, SOURCE = getTarget(file)
+    TARGET, SOURCE = getTarget(IMAGE)
     """
     ite = 0
     # Repeat until done

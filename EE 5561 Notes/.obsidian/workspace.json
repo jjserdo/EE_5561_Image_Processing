@@ -171,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,6 +185,10 @@
   },
   "active": "bb874247df28ba61",
   "lastOpenFiles": [
+    "Files/MiniProject1_test.py",
+    "Files/tmpjxbbit0z",
+    "Files/tmpl5l_riby",
+    "Files/tmpahlimo60",
     "Files/tmpvkgc7siz",
     "Pasted image 20230924150445.png",
     "Mini-Project 1 Notes.md",
@@ -195,10 +198,6 @@
     "Files/Lecture04 - 2DDS_Filters_DFT.pdf",
     "Files/Lecture03 - 2DFS_Sampling_2DDSSignals.pdf",
     "Files/Lecture02 - Transformations_2DSignalsSystems.pdf",
-    "Files/Serdoncillo HW1.pdf",
-    "Files/hw1 paper.pdf",
-    "Files/2023-09-22-18-34-merged.pdf",
-    "Files/2023-09-22-18-34.pdf",
     "Files/images/cmag.png",
     "Files/images/calias.png",
     "Files/images/dnoisy.png",
