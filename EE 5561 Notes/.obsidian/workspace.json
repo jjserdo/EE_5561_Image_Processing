@@ -8,24 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "05633f8b5d435c04",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Files/inpainting_exemplar.pdf"
-              }
-            }
-          },
-          {
-            "id": "7f3e58c7d8aed1f6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "bb874247df28ba61",
             "type": "leaf",
             "state": {
@@ -36,9 +18,37 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1fe929c6fbeaf7b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 7 Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "1a5522ff659a9c62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55afc1487939aada",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Files/Lecture07 - LinearAlgebraReview.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mini-Project 1 Notes.md",
+                "file": "Lecture 7 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mini-Project 1 Notes.md",
+                "file": "Lecture 7 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mini-Project 1 Notes.md"
+                "file": "Lecture 7 Notes.md"
               }
             }
           },
@@ -171,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,30 +194,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb874247df28ba61",
+  "active": "1fe929c6fbeaf7b0",
   "lastOpenFiles": [
-    "Files/MiniProject1_test.py",
-    "Files/tmpjxbbit0z",
-    "Files/tmpl5l_riby",
-    "Files/tmpahlimo60",
-    "Files/tmpvkgc7siz",
-    "Pasted image 20230924150445.png",
+    "Files/Project 1/tmpr2nhd1sd",
+    "Pasted image 20230926134038.png",
+    "Files/Project 1/tmp5549jikd",
     "Mini-Project 1 Notes.md",
-    "Files/inpainting_exemplar.pdf",
-    "Files/Lecture06 - HistogramProceesing_Interpolation.pdf",
-    "Files/Lecture05 - NoiseReduction_Sharpening_EdgeDetection.pdf",
-    "Files/Lecture04 - 2DDS_Filters_DFT.pdf",
-    "Files/Lecture03 - 2DFS_Sampling_2DDSSignals.pdf",
-    "Files/Lecture02 - Transformations_2DSignalsSystems.pdf",
+    "Files/Lecture07 - LinearAlgebraReview.pdf",
+    "Lecture 7 Notes.md",
+    "Files/HWs/EE5561_Image_Processing_HW1_Serdoncillo.pdf",
+    "Files/Project 1/inpainting_exemplar.pdf",
+    "Files/HWs/Serdoncillo HW1.pdf",
+    "Files/HWs/hw1 paper.pdf",
+    "Files/HWs/lena512.bmp",
+    "Files/HWs/Assignment1_Problem5.py",
+    "Files/HWs/Assignment1.pdf",
+    "Files/HWs",
+    "Files/New folder",
+    "Files/Project 1/fountain_girl.png",
+    "Pasted image 20230924150445.png",
     "Files/images/cmag.png",
     "Files/images/calias.png",
     "Files/images/dnoisy.png",
     "Files/images/dlena.png",
     "Files/images/bhighlena.png",
     "Files/images/blowlena.png",
-    "Files/images/bhigh.png",
-    "Files/images/blow.png",
-    "Files/images/amagpha.png",
     "Lecture 6 Notes.md",
     "Lecture 5 Notes.md",
     "Fourier Transform.md",
