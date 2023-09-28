@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 7 Notes.md",
+                "file": "Files/Lecture07 - LinearAlgebraReview.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 7 Notes.md",
+                "file": "Files/Lecture07 - LinearAlgebraReview.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 7 Notes.md"
+                "file": "Files/Lecture07 - LinearAlgebraReview.pdf"
               }
             }
           },
@@ -194,14 +194,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1fe929c6fbeaf7b0",
+  "active": "55afc1487939aada",
   "lastOpenFiles": [
+    "Files/Lecture06 - HistogramProceesing_Interpolation.pdf",
+    "Files/Lecture07 - LinearAlgebraReview.pdf",
+    "Lecture 7 Notes.md",
     "Files/Project 1/tmpr2nhd1sd",
     "Pasted image 20230926134038.png",
     "Files/Project 1/tmp5549jikd",
     "Mini-Project 1 Notes.md",
-    "Files/Lecture07 - LinearAlgebraReview.pdf",
-    "Lecture 7 Notes.md",
     "Files/HWs/EE5561_Image_Processing_HW1_Serdoncillo.pdf",
     "Files/Project 1/inpainting_exemplar.pdf",
     "Files/HWs/Serdoncillo HW1.pdf",
@@ -210,7 +211,6 @@
     "Files/HWs/Assignment1_Problem5.py",
     "Files/HWs/Assignment1.pdf",
     "Files/HWs",
-    "Files/New folder",
     "Files/Project 1/fountain_girl.png",
     "Pasted image 20230924150445.png",
     "Files/images/cmag.png",

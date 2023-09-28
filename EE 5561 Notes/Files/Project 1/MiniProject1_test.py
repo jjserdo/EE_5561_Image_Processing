@@ -98,9 +98,15 @@ class PolygonDrawer(object):
         return canvas
 
 # ============================================================================
-
+"""
 if __name__ == "__main__":
     pd = PolygonDrawer("Polygon")
     image = pd.run()
     cv2.imwrite("polygon.png", image)
     print("Polygon = %s" % pd.points)
+"""
+
+bw = np.zeros((256,256))
+bw[:50,:] = 128
+bw[50:200,:] = 255
+cv2.imwrite("blackWhite.png", bw)
