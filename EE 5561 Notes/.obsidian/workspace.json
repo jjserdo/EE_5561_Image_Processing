@@ -11,11 +11,9 @@
             "id": "bb874247df28ba61",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Mini-Project 1 Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "Files/Lecture04 - 2DDS_Filters_DFT.pdf"
               }
             }
           },
@@ -30,21 +28,14 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "1a5522ff659a9c62",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "55afc1487939aada",
+            "id": "929ac33be4ad170f",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Files/Lecture07 - LinearAlgebraReview.pdf"
+                "file": "Files/Lecture05 - NoiseReduction_Sharpening_EdgeDetection.pdf"
               }
             }
           }
@@ -115,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Lecture07 - LinearAlgebraReview.pdf",
+                "file": "Files/Lecture04 - 2DDS_Filters_DFT.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/Lecture07 - LinearAlgebraReview.pdf",
+                "file": "Files/Lecture04 - 2DDS_Filters_DFT.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/Lecture07 - LinearAlgebraReview.pdf"
+                "file": "Files/Lecture04 - 2DDS_Filters_DFT.pdf"
               }
             }
           },
@@ -194,23 +185,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55afc1487939aada",
+  "active": "bb874247df28ba61",
   "lastOpenFiles": [
+    "Files/HWs/tmpdzdqrx7n",
+    "Files/HWs/Serdoncillo_HW2.py",
+    "Files/HWs/tmpp5_owr5_",
+    "Files/Lecture05 - NoiseReduction_Sharpening_EdgeDetection.pdf",
     "Files/Lecture06 - HistogramProceesing_Interpolation.pdf",
     "Files/Lecture07 - LinearAlgebraReview.pdf",
+    "Mini-Project 1 Notes.md",
     "Lecture 7 Notes.md",
     "Files/Project 1/tmpr2nhd1sd",
     "Pasted image 20230926134038.png",
     "Files/Project 1/tmp5549jikd",
-    "Mini-Project 1 Notes.md",
     "Files/HWs/EE5561_Image_Processing_HW1_Serdoncillo.pdf",
     "Files/Project 1/inpainting_exemplar.pdf",
     "Files/HWs/Serdoncillo HW1.pdf",
-    "Files/HWs/hw1 paper.pdf",
     "Files/HWs/lena512.bmp",
-    "Files/HWs/Assignment1_Problem5.py",
-    "Files/HWs/Assignment1.pdf",
-    "Files/HWs",
     "Files/Project 1/fountain_girl.png",
     "Pasted image 20230924150445.png",
     "Files/images/cmag.png",

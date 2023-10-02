@@ -12,22 +12,34 @@ A. Criminisi, P. Perez, K. Toyama
 Microsoft Research 2004
 """
 
+
+import numpy as np
+import cv2
+#from MiniProject1 import Exemplar
+
+"""
+Image Creation
+"""
+def createImages():
+    bw = np.zeros((256,256))
+    bw[:128,:] = 100
+    bw[128:,:] = 200
+    cv2.imwrite("images/blackWhite.png", bw)
+    
+
 """ 
 Image Testing
 """
-import numpy as np
-import cv2
-from MiniProject1 import Exemplar
-
-def createImages():
-    bw = np.zeros((256,256))
-    bw[:50,:] = 128
-    bw[50:200,:] = 255
-    cv2.imwrite("blackWhite.png", bw)
-    
-
-
 if __name__ == "__main__":
-    f = "images/blackWhite.png"
-    black = Exemplar()
     
+    #createImages()
+    f = "images/blackWhite.png"
+    """
+    black = Exemplar()
+    black.inputImage(f)
+    black.showInput()
+    black.chooseSource()
+    """
+    image = cv2.imread(f)
+    print(imread.shape)
+    img2 = cv2.Laplacian(image, ddepth)

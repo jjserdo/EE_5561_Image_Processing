@@ -1,112 +1,52 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Sep 24 21:11:31 2023
-
-@author: justi
-"""
 
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.image as img
-import scipy
 import cv2
+import scipy
 
-def test():
-    file = "fountain_girl.png"
-    raw = img.imread(file)   
-    image = np.asarray(raw)
-    print(image.dtype)
-    print(image.shape)
-    x1 = int(input("X - Coordinate of top left point: "))
-    y1 = int(input("Y - Coordinate of top left point: "))
-    x2 = int(input("X - Coordinate of bottom right point: "))
-    y2 = int(input("Y - Coordinate of bottom right point: "))
-    #target = np.full_like(image, 0)
-    #source = np.full_like(image, 0)
-    
-# %%
-# ============================================================================
+image = img.imread("images/fountain_girl.png") # importing using cv2 switches the color channels
+#plt.imshow(image)
+image = image[:,:,:-1]
+# blue green red
+mask = np.zeros(image.shape[:-1])
+# x is the rows from up
+# y is the columns from right
+mask[800:,250:750] = 1
+nmask = np.abs(1-mask)
+#plt.imshow(mask, cmap="gray")
 
-CANVAS_SIZE = (600,800)
+#target = np.ones(image.shape)
+source = np.ones(image.shape)
+for i in range(3):
+    #target[:,:,i] = image[:,:,i] * mask
+    source[:,:,i] = image[:,:,i] * mask
+#plt.imshow(source)
 
-FINAL_LINE_COLOR = (255, 255, 255)
-WORKING_LINE_COLOR = (127, 127, 127)
+probs = np.copy(mask)
+print(probs.shape)
+ff = scipy.ndimage.sobel(probs, 0)**2 + scipy.ndimage.sobel(probs, 1)**2
+#plt.imshow(ff)
+contours = np.where(ff > 9, 1, 0)
+#plt.imshow(contours)
+size = 9
+myFilter = 1/size**2 * np.ones((size,size))
+newProbs = scipy.signal.convolve2d(probs, myFilter, mode='same', boundary='wrap') * mask
+plt.imshow(newProbs)
+print(newProbs.shape)
+ab = np.unravel_index(np.argmax(newProbs), image.shape[:-1])
+print(ab)
+fig, ax = plt.subplots()
+ax.set_ylim([0,image.shape[0]])
+ax.set_xlim([0,image.shape[1]])
+ax.plot(ab[0], ab[1], markersize=100)
 
-# ============================================================================
+xgrad = scipy.ndimage.sobel(image, 0)
+ygrad = scipy.ndimage.sobel(image, 1)
+xsad = xgrad[:,:,0]**2 + xgrad[:,:,1]**2 + xgrad[:,:,2]**2
+Xsad = xsad**2
+ysad = ygrad[:,:,0]**2 + ygrad[:,:,1]**2 + ygrad[:,:,2]**2
+Ysad = ysad**2
+mag_grad = np.sqrt(Xsad+Ysad)
+newProbs = scipy.signal.convolve2d(mag_grad, myFilter, mode='same', boundary='wrap') * mask
 
-class PolygonDrawer(object):
-    def __init__(self, window_name):
-        self.window_name = window_name # Name for our window
-
-        self.done = False # Flag signalling we're done
-        self.current = (0, 0) # Current position, so we can draw the line-in-progress
-        self.points = [] # List of points defining our polygon
-
-
-    def on_mouse(self, event, x, y, buttons, user_param):
-        # Mouse callback that gets called for every mouse event (i.e. moving, clicking, etc.)
-
-        if self.done: # Nothing more to do
-            return
-
-        if event == cv2.EVENT_MOUSEMOVE:
-            # We want to be able to draw the line-in-progress, so update current mouse position
-            self.current = (x, y)
-        elif event == cv2.EVENT_LBUTTONDOWN:
-            # Left click means adding a point at current position to the list of points
-            print("Adding point #%d with position(%d,%d)" % (len(self.points), x, y))
-            self.points.append((x, y))
-        elif event == cv2.EVENT_RBUTTONDOWN:
-            # Right click means we're done
-            print("Completing polygon with %d points." % len(self.points))
-            self.done = True
-
-
-    def run(self):
-        # Let's create our working window and set a mouse callback to handle events
-        cv2.namedWindow(self.window_name, flags=cv2.CV_WINDOW_AUTOSIZE)
-        cv2.imshow(self.window_name, np.zeros(CANVAS_SIZE, np.uint8))
-        cv2.waitKey(1)
-        cv2.cv.SetMouseCallback(self.window_name, self.on_mouse)
-
-        while(not self.done):
-            # This is our drawing loop, we just continuously draw new images
-            # and show them in the named window
-            canvas = np.zeros(CANVAS_SIZE, np.uint8)
-            if (len(self.points) > 0):
-                # Draw all the current polygon segments
-                cv2.polylines(canvas, np.array([self.points]), False, FINAL_LINE_COLOR, 1)
-                # And  also show what the current segment would look like
-                cv2.line(canvas, self.points[-1], self.current, WORKING_LINE_COLOR)
-            # Update the window
-            cv2.imshow(self.window_name, canvas)
-            # And wait 50ms before next iteration (this will pump window messages meanwhile)
-            if cv2.waitKey(50) == 27: # ESC hit
-                self.done = True
-
-        # User finised entering the polygon points, so let's make the final drawing
-        canvas = np.zeros(CANVAS_SIZE, np.uint8)
-        # of a filled polygon
-        if (len(self.points) > 0):
-            cv2.fillPoly(canvas, np.array([self.points]), FINAL_LINE_COLOR)
-        # And show it
-        cv2.imshow(self.window_name, canvas)
-        # Waiting for the user to press any key
-        cv2.waitKey()
-
-        cv2.destroyWindow(self.window_name)
-        return canvas
-
-# ============================================================================
-"""
-if __name__ == "__main__":
-    pd = PolygonDrawer("Polygon")
-    image = pd.run()
-    cv2.imwrite("polygon.png", image)
-    print("Polygon = %s" % pd.points)
-"""
-
-bw = np.zeros((256,256))
-bw[:50,:] = 128
-bw[50:200,:] = 255
-cv2.imwrite("blackWhite.png", bw)
