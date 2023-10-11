@@ -8,7 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bb874247df28ba61",
+            "id": "ae648d26c18b2d20",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Files/Lecture08 - Wavelets_DCT_ProbabilityReview.pdf"
+              }
+            }
+          },
+          {
+            "id": "10d4da53c18f17cd",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -18,19 +28,54 @@
             }
           },
           {
-            "id": "1fe929c6fbeaf7b0",
+            "id": "a835b95fcd65b1b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Lecture 7 Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "Files/Lecture05 - NoiseReduction_Sharpening_EdgeDetection.pdf"
               }
             }
           },
           {
-            "id": "929ac33be4ad170f",
+            "id": "b5145ddb8e05bcac",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Files/Lecture04 - 2DDS_Filters_DFT.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "9d6795fbff0a03c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2338bd29e74fad50",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Files/Homeworks/Homework 2/Assignment2.pdf"
+              }
+            }
+          },
+          {
+            "id": "0e6e789b06e7f7d3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Files/Lecture07 - LinearAlgebraReview.pdf"
+              }
+            }
+          },
+          {
+            "id": "42340eeb885648ef",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -39,7 +84,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5,
-    "collapsed": true
+    "width": 285.5
   },
   "right": {
     "id": "be5f2fe3f8ef0db5",
@@ -106,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Lecture04 - 2DDS_Filters_DFT.pdf",
+                "file": "Files/Lecture05 - NoiseReduction_Sharpening_EdgeDetection.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/Lecture04 - 2DDS_Filters_DFT.pdf",
+                "file": "Files/Lecture05 - NoiseReduction_Sharpening_EdgeDetection.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/Lecture04 - 2DDS_Filters_DFT.pdf"
+                "file": "Files/Lecture05 - NoiseReduction_Sharpening_EdgeDetection.pdf"
               }
             }
           },
@@ -185,31 +230,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb874247df28ba61",
+  "active": "42340eeb885648ef",
   "lastOpenFiles": [
-    "Files/HWs/tmpdzdqrx7n",
-    "Files/HWs/Serdoncillo_HW2.py",
-    "Files/HWs/tmpp5_owr5_",
-    "Files/Lecture05 - NoiseReduction_Sharpening_EdgeDetection.pdf",
-    "Files/Lecture06 - HistogramProceesing_Interpolation.pdf",
-    "Files/Lecture07 - LinearAlgebraReview.pdf",
-    "Mini-Project 1 Notes.md",
+    "Files/Projects/Project 1/tmp6r6widyu",
+    "Files/Projects/Project 1/tmpth2lupwd",
+    "Files/Projects/Project 1/tmpwgoytj2y",
+    "Files/Projects/Project 1/tmpj7zbjw8j",
+    "Files/Projects/Project 1/tmp3b0s8vki",
+    "Files/Projects/Project 1/tmpq5yz0oxr",
+    "Files/Projects/Project 1/tmplkdbrxd3",
+    "Files/Projects/Project 1/tmpls56j30z",
+    "Files/Projects/Project 1/tmpnwqs9en6",
+    "Files/Projects/Project 1/tmpdoxb1ygg",
+    "Files/Projects/Project 1/tmphukygw7x",
+    "Files/Projects/Project 1/images/triangleMask.png",
+    "Files/Projects/Project 1/images/post Process/triangleMask2.png",
+    "Files/Projects/Project 1/images/post Process/triangle2.png",
+    "Files/Projects/Project 1/images/post Process/triangle.png",
+    "Files/Projects/Project 1/images/post Process/triangleMask.png",
+    "Files/Projects/Project 1/images/post Process/blackWhite.png",
+    "Files/Projects/Project 1/images/triangle.png",
+    "Files/Projects/Project 1/images/Screenshot 2023-10-10 143938.png",
+    "Files/Projects/Project 1/images/Screenshot 2023-10-10 101934.png",
+    "Files/Projects/Project 1/images/blackWhite_paper.png",
+    "Lecture 9 Notes.md",
     "Lecture 7 Notes.md",
-    "Files/Project 1/tmpr2nhd1sd",
-    "Pasted image 20230926134038.png",
-    "Files/Project 1/tmp5549jikd",
-    "Files/HWs/EE5561_Image_Processing_HW1_Serdoncillo.pdf",
-    "Files/Project 1/inpainting_exemplar.pdf",
-    "Files/HWs/Serdoncillo HW1.pdf",
-    "Files/HWs/lena512.bmp",
-    "Files/Project 1/fountain_girl.png",
-    "Pasted image 20230924150445.png",
-    "Files/images/cmag.png",
-    "Files/images/calias.png",
-    "Files/images/dnoisy.png",
-    "Files/images/dlena.png",
-    "Files/images/bhighlena.png",
-    "Files/images/blowlena.png",
+    "Mini-Project 1 Notes.md",
     "Lecture 6 Notes.md",
     "Lecture 5 Notes.md",
     "Fourier Transform.md",
