@@ -13,79 +13,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Files/Lecture08 - Wavelets_DCT_ProbabilityReview.pdf"
-              }
-            }
-          },
-          {
-            "id": "10d4da53c18f17cd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Files/Lecture04 - 2DDS_Filters_DFT.pdf"
-              }
-            }
-          },
-          {
-            "id": "a835b95fcd65b1b2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Files/Lecture05 - NoiseReduction_Sharpening_EdgeDetection.pdf"
-              }
-            }
-          },
-          {
-            "id": "b5145ddb8e05bcac",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Files/Lecture04 - 2DDS_Filters_DFT.pdf"
+                "file": "Files/Lecture12 - Optimization.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "9d6795fbff0a03c6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2338bd29e74fad50",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Files/Homeworks/Homework 2/Assignment2.pdf"
-              }
-            }
-          },
-          {
-            "id": "0e6e789b06e7f7d3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Files/Lecture07 - LinearAlgebraReview.pdf"
-              }
-            }
-          },
-          {
-            "id": "42340eeb885648ef",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Files/Lecture05 - NoiseReduction_Sharpening_EdgeDetection.pdf"
-              }
-            }
-          }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
   "right": {
     "id": "be5f2fe3f8ef0db5",
@@ -151,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Lecture05 - NoiseReduction_Sharpening_EdgeDetection.pdf",
+                "file": "Files/Lecture12 - Optimization.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/Lecture05 - NoiseReduction_Sharpening_EdgeDetection.pdf",
+                "file": "Files/Lecture12 - Optimization.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/Lecture05 - NoiseReduction_Sharpening_EdgeDetection.pdf"
+                "file": "Files/Lecture12 - Optimization.pdf"
               }
             }
           },
@@ -230,19 +163,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42340eeb885648ef",
+  "active": "ae648d26c18b2d20",
   "lastOpenFiles": [
-    "Files/Projects/Project 1/tmp6r6widyu",
-    "Files/Projects/Project 1/tmpth2lupwd",
-    "Files/Projects/Project 1/tmpwgoytj2y",
-    "Files/Projects/Project 1/tmpj7zbjw8j",
-    "Files/Projects/Project 1/tmp3b0s8vki",
-    "Files/Projects/Project 1/tmpq5yz0oxr",
-    "Files/Projects/Project 1/tmplkdbrxd3",
-    "Files/Projects/Project 1/tmpls56j30z",
-    "Files/Projects/Project 1/tmpnwqs9en6",
-    "Files/Projects/Project 1/tmpdoxb1ygg",
-    "Files/Projects/Project 1/tmphukygw7x",
+    "Files/Projects/Project 1/tmprox4w7rx",
+    "Files/Projects/Project 1/__pycache__/MiniProject1_v2.cpython-311.pyc",
+    "Files/Projects/Project 1/tmp8vhar17q",
+    "Files/Projects/Project 1/tmpiihc06xt",
+    "Files/Projects/Project 1/tmp4zv9qusj",
+    "Files/Projects/Project 1/tmpx5_l2m13",
+    "Files/Projects/Project 1/tmpkajwg3ox",
+    "Files/Projects/Project 1/tmpakpzh04_",
+    "Files/Projects/Project 1/MiniProject1_v2.py",
+    "Files/Projects/Project 1/tmpd3psw2wa",
+    "Files/Projects/Project 1/tmp6hirx2dd",
     "Files/Projects/Project 1/images/triangleMask.png",
     "Files/Projects/Project 1/images/post Process/triangleMask2.png",
     "Files/Projects/Project 1/images/post Process/triangle2.png",

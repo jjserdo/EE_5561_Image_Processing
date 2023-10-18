@@ -54,7 +54,7 @@ newProbs = scipy.signal.convolve2d(mag_grad, myFilter, mode='same', boundary='wr
 Image Creation
 """
 def createImages():
-    bw = np.zeros((256,256))
+    bw = np.zeros((200,200))
     bw[:128,:] = 100
     bw[128:,:] = 200
     cv2.imwrite("images/blackWhite.png", bw)

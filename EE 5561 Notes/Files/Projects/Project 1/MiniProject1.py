@@ -25,6 +25,7 @@ Thoughts:
 import numpy as np 
 import matplotlib.pyplot as plt
 import cv2
+from scipy.signal import convolve2d
        
 class Exemplar():
     def __init__(self, patchSize=9, targetType ="Rectangle", sourceType = "All"):
@@ -33,24 +34,20 @@ class Exemplar():
         self.tt = targetType
         self.ss = sourceType
         
-        # Image, Mask and Source are CONSTANT
+        # Image, Mask and Source are CONSTANT from INPUT
         self.image = None
         self.mask = None
-        self.source = None
         
         # Target and Probabilities are Changing
         self.evolve = None
-        self.conf = None
+        self.targetBool = None
         
         # Misc values
-        self.grad = None
-        self.gradmax = None
-        self.lab = None
         self.n2 = int(0.5*(self.n-1))
         self.limit = 600
         self.count = 1
 # %% Main Update Function     
-    """
+    
     def update(self): # Repeat until done:
         self.count += 1
         # 1a Identify the fill front
@@ -77,7 +74,7 @@ class Exemplar():
         self.target[a:b,a:b,:] = self.source[c:d,c:d,:]
         # 3 Update confidence values of pixel values
         self.conf[a:b,a:b,:] = self.conf[p]
-    """
+    
         
 # %% Get Inputs
     def inputImage(self, imageFile):
@@ -204,7 +201,18 @@ class Exemplar():
                 break
         
         return True
-        
+    
+    def fillFront(self):
+        kernelx = np.array([[1,0,-1],[1,0,-1],[1,0,-1]])
+        kernely = np.array([[-1,-1,-1],[0,0,0],[1,1,1]])
+        kernel = kernelx + kernely
+        heyhey = (np.abs(convolve2d(self.targetBool, kernel, mode='same', boundary='wrap'))*255).astype(int)
+        coordinates = []
+        for row in range(self.image.shape[0]):
+            for col in range(self.image.shape[1]):
+                if heyhey[row,col] != 0:
+                    coordinates.append([row,col])
+                    
     ### Run Funntion
     def run(self):
         if self.image is not None and self.mask is not None and self.source is not None:
@@ -246,7 +254,7 @@ class Exemplar():
             sourceX = a
             sourceY = b
             ssd[i] = np.sum((self.lab[a-self.n2:a+self.n2,b-self.n2:b+self.n2,:]-compare)**2)
-        source_patch = np.unravel_index(np.argmax(ssd))
+        source_patch = np.unravel_index(np.argmin(ssd))
         return source_patch
     """
 
