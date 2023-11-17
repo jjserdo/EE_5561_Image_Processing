@@ -8,46 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3e844d4552cdf204",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Files/Lecture07 - LinearAlgebraReview.pdf"
-              }
-            }
-          },
-          {
-            "id": "71a21bb913e2ddb8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Files/Lecture11 - Sparsity.pdf"
-              }
-            }
-          },
-          {
-            "id": "ae648d26c18b2d20",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Files/Lecture12 - Optimization.pdf"
-              }
-            }
-          },
-          {
-            "id": "d8ea0cb3d5c211a2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Files/Lecture13 - PatchProcessing_LowRankModels.pdf"
-              }
-            }
-          },
-          {
             "id": "187dccbac7b89473",
             "type": "leaf",
             "state": {
@@ -66,9 +26,18 @@
                 "file": "Files/syllabus.pdf"
               }
             }
+          },
+          {
+            "id": "fb2d3ffa8100294e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Files/Lectures/Lecture19 - RegularizationInNN_LearningTechniquesTasks.pdf"
+              }
+            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/syllabus.pdf",
+                "file": "Files/Projects/Project 2/NonLocalMeans.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/syllabus.pdf",
+                "file": "Files/Projects/Project 2/NonLocalMeans.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/syllabus.pdf"
+                "file": "Files/Projects/Project 2/NonLocalMeans.pdf"
               }
             }
           },
@@ -214,19 +183,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6755dcfa77d27f34",
+  "active": "187dccbac7b89473",
   "lastOpenFiles": [
+    "Files/PyTorch/tmphqvynyze",
+    "Files/PyTorch/tmphd4jsu9l",
+    "Files/PyTorch/data/MNIST/raw/t10k-labels-idx1-ubyte",
+    "Files/PyTorch/data/MNIST/raw/t10k-labels-idx1-ubyte.gz",
+    "Files/PyTorch/data/MNIST/raw/t10k-images-idx3-ubyte",
+    "Files/PyTorch/data/MNIST/raw/t10k-images-idx3-ubyte.gz",
+    "Files/PyTorch/data/MNIST/raw/train-labels-idx1-ubyte",
+    "Files/PyTorch/data/MNIST/raw/train-labels-idx1-ubyte.gz",
+    "Files/PyTorch/data/MNIST/raw/train-images-idx3-ubyte",
+    "Files/PyTorch/data/MNIST/raw/train-images-idx3-ubyte.gz",
+    "Files/PyTorch/data/MNIST/raw",
     "Project 2 Notes.md",
-    "Files/Projects/Project 2/Serdoncillo_project2/tmppco95p8l",
-    "Files/Projects/Project 2/Serdoncillo_project2/tmpwsupi_1c",
-    "Files/Projects/Project 2/Serdoncillo_project2/tmp800iiqt_",
-    "Files/Projects/Project 2/Serdoncillo_project2/__pycache__/PersonalDenoise.cpython-311.pyc",
-    "Files/Projects/Project 2/Serdoncillo_project2/__pycache__/NonLocalDenoise.cpython-311.pyc",
-    "Files/Projects/Project 2/Serdoncillo_project2/__pycache__",
-    "Files/Projects/Project 2/Serdoncillo_project2/images/misc/cameraman_blurry.mat",
-    "Files/Projects/Project 2/Serdoncillo_project2/images/misc",
-    "Files/Projects/Project 2/Serdoncillo_project2/images/New folder",
-    "Files/Projects/Project 2/Serdoncillo_project2/tmptxn8okc7",
     "Pasted image 20231109202805.png",
     "Pasted image 20231109202754.png",
     "Files/Projects/Project 2/Serdoncillo_project2/images/project 1 images/fountain_girl.png",

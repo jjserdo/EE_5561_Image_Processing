@@ -9,6 +9,7 @@ taken from https://pytorch.org/tutorials/beginner/pytorch_with_examples.html
 
 import numpy as np
 import math
+import matplotlib.pyplot as plt
 
 # Create random input and output data
 x = np.linspace(-math.pi, math.pi, 2000)
@@ -45,3 +46,10 @@ for t in range(2000):
     d -= learning_rate * grad_d
 
 print(f'Result: y = {a} + {b} x + {c} x^2 + {d} x^3')
+
+# %% JJ Personal Code
+
+fig, ax = plt.subplots()
+ax.plot(x,y,label="analytical")
+ax.plot(x,y_pred,label="prediction")
+fig.legend()
