@@ -8,32 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "187dccbac7b89473",
+            "id": "7001fce077b99caf",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Files/Projects/Project 2/NonLocalMeans.pdf"
-              }
-            }
-          },
-          {
-            "id": "6755dcfa77d27f34",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Files/syllabus.pdf"
-              }
-            }
-          },
-          {
-            "id": "fb2d3ffa8100294e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Files/Lectures/Lecture19 - RegularizationInNN_LearningTechniquesTasks.pdf"
+                "file": "Files/Lectures/Lecture24 - Transformers.pdf"
               }
             }
           }
@@ -87,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5,
-    "collapsed": true
+    "width": 256.5
   },
   "right": {
     "id": "be5f2fe3f8ef0db5",
@@ -104,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Projects/Project 2/NonLocalMeans.pdf",
+                "file": "Files/Lectures/Lecture24 - Transformers.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/Projects/Project 2/NonLocalMeans.pdf",
+                "file": "Files/Lectures/Lecture24 - Transformers.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/Projects/Project 2/NonLocalMeans.pdf"
+                "file": "Files/Lectures/Lecture24 - Transformers.pdf"
               }
             }
           },
@@ -183,30 +162,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "187dccbac7b89473",
+  "active": "7001fce077b99caf",
   "lastOpenFiles": [
-    "Files/PyTorch/tmphqvynyze",
-    "Files/PyTorch/tmphd4jsu9l",
-    "Files/PyTorch/data/MNIST/raw/t10k-labels-idx1-ubyte",
-    "Files/PyTorch/data/MNIST/raw/t10k-labels-idx1-ubyte.gz",
-    "Files/PyTorch/data/MNIST/raw/t10k-images-idx3-ubyte",
-    "Files/PyTorch/data/MNIST/raw/t10k-images-idx3-ubyte.gz",
-    "Files/PyTorch/data/MNIST/raw/train-labels-idx1-ubyte",
-    "Files/PyTorch/data/MNIST/raw/train-labels-idx1-ubyte.gz",
-    "Files/PyTorch/data/MNIST/raw/train-images-idx3-ubyte",
-    "Files/PyTorch/data/MNIST/raw/train-images-idx3-ubyte.gz",
-    "Files/PyTorch/data/MNIST/raw",
+    "Files/Lectures/Lecture13 - PatchProcessing_LowRankModels.pdf",
+    "Files/Projects/Project 2/Serdoncillo_project2/Serdoncillo_project2.zip",
+    "Files/Projects/Project 2/Serdoncillo_project2/Serdoncillo_project2.pdf",
+    "Files/Projects/Project 2/Serdoncillo_project2/Serdoncillo_project2/Serdoncillo_project2.pdf",
+    "Files/Projects/Project 2/Serdoncillo_project2/Serdoncillo_project2/images/paper/w.png",
+    "Files/Projects/Project 2/Serdoncillo_project2/Serdoncillo_project2/images/paper/nl1.png",
+    "Files/Projects/Project 2/Serdoncillo_project2/Serdoncillo_project2/images/paper/nl.png",
+    "Files/Projects/Project 2/Serdoncillo_project2/Serdoncillo_project2/images/paper",
+    "Files/Projects/Project 2/Serdoncillo_project2/Serdoncillo_project2/images/noised/s3.png",
+    "Files/Projects/Project 2/Serdoncillo_project2/Serdoncillo_project2/images/noised/s1.png",
+    "Files/Projects/Project 2/Serdoncillo_project2/Serdoncillo_project2/images/noised/s2.png",
+    "Files/Projects/Project 2/Serdoncillo_project2/Serdoncillo_project2/images/noised/s0.png",
+    "Files/Projects/Project 2/Serdoncillo_project2/Serdoncillo_project2/images/noised/g3.png",
+    "Files/Projects/Project 2/Serdoncillo_project2/Serdoncillo_project2/images/noised/g2.png",
+    "Files/Projects/Project 2/Serdoncillo_project2/Serdoncillo_project2/images/noised/g1.png",
+    "Files/Projects/Project 2/Serdoncillo_project2/Serdoncillo_project2/images/noised",
+    "Files/Projects/Project 2/Serdoncillo_project2/Serdoncillo_project2/images/hyper",
+    "Files/Projects/Project 2/Serdoncillo_project2/Serdoncillo_project2/images/denoised",
+    "Files/Projects/Project 2/Serdoncillo_project2/Serdoncillo_project2/images",
+    "Files/Projects/Project 2/Serdoncillo_project2/Serdoncillo_project2/conference_101719.pdf",
+    "Files/Projects/Project 2/Serdoncillo_project2/Serdoncillo_project2/PersonalNoise.py",
     "Project 2 Notes.md",
-    "Pasted image 20231109202805.png",
-    "Pasted image 20231109202754.png",
-    "Files/Projects/Project 2/Serdoncillo_project2/images/project 1 images/fountain_girl.png",
-    "Files/Projects/Project 2/Serdoncillo_project2/images/project 1 images/doggy.png",
-    "Files/Projects/Project 2/Serdoncillo_project2/images/project 1 images/buttery.png",
-    "Files/Projects/Project 2/Serdoncillo_project2/images/project 1 images/blackWhite.png",
-    "Files/Projects/Project 2/Serdoncillo_project2/images/project 1 images/tri.png",
-    "Files/Projects/Project 2/Serdoncillo_project2/images/project 1 images/spider.png",
-    "Files/Projects/Project 2/Serdoncillo_project2/images/project 1 images/fruit.png",
-    "Files/Projects/Project 2/Serdoncillo_project2/images/project 1 images/lena512.bmp",
     "Lecture 9 Notes.md",
     "Lecture 7 Notes.md",
     "Mini-Project 1 Notes.md",

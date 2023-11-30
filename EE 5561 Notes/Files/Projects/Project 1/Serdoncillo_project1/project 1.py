@@ -22,7 +22,7 @@ from exemplar import Exemplar
 
 # %%
 if __name__ == "__main__":
-    
+    """
     # Basic test case
     bw = Exemplar()
     bw.inputImage("images/BlackWhite.png")
@@ -38,20 +38,21 @@ if __name__ == "__main__":
     bw1.inputImage("images/BlackWhite.png")
     bw1.chooseTarget()
     bw1.chooseSource()
-    bw1.showImage()
+    bw1.showImage()q
     bw1.showTarget()
     bw1.showSource()
     bw1.run()
-    
+    """
     # Mask Drawing on Personal Butterfly Image
     bf = Exemplar(targetType="Free Draw")
-    bf.inputImage("images/buttery.png")
+    bf.inputImage("images/jamarcus.jpg")
     bf.chooseTarget()
     bf.chooseSource()
     bf.showImage()
     bf.showTarget()
     bf.showSource()
     bf.run()
+    cv2.imwrite("images/images/jamarcushandgone.png", bf.evolve)
     
     
     

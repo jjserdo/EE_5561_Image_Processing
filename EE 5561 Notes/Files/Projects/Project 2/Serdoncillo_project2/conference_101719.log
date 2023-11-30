@@ -1,0 +1,691 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.17)  28 NOV 2023 12:42
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/Users/justi/Documents/GitHub/EE_5561_Image_Processing/EE 5561 Notes/Files/Projects/Project 2/Serdoncillo_project2/conference_101719.tex"
+(c:/Users/justi/Documents/GitHub/EE_5561_Image_Processing/EE 5561 Notes/Files/Projects/Project 2/Serdoncillo_project2/conference_101719.tex
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+(./IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen140
+\@IEEEtrantmpdimenB=\dimen141
+\@IEEEtrantmpdimenC=\dimen142
+\@IEEEtrantmpcountA=\count186
+\@IEEEtrantmpcountB=\count187
+\@IEEEtrantmpcountC=\count188
+\@IEEEtrantmptoksA=\toks17
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 503.
+(c:/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen143
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen144
+\CLASSINFOnormalsizeunitybaselineskip=\dimen145
+\IEEEnormaljot=\dimen146
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+\IEEEquantizedlength=\dimen147
+\IEEEquantizedlengthdiff=\dimen148
+\IEEEquantizedtextheightdiff=\dimen149
+\IEEEilabelindentA=\dimen150
+\IEEEilabelindentB=\dimen151
+\IEEEilabelindent=\dimen152
+\IEEEelabelindent=\dimen153
+\IEEEdlabelindent=\dimen154
+\IEEElabelindent=\dimen155
+\IEEEiednormlabelsep=\dimen156
+\IEEEiedmathlabelsep=\dimen157
+\IEEEiedtopsep=\skip48
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@IEEEsubequation=\count193
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\c@figure=\count194
+\c@table=\count195
+\@IEEEeqnnumcols=\count196
+\@IEEEeqncolcnt=\count197
+\@IEEEsubeqnnumrollback=\count198
+\@IEEEquantizeheightA=\dimen158
+\@IEEEquantizeheightB=\dimen159
+\@IEEEquantizeheightC=\dimen160
+\@IEEEquantizeprevdepth=\dimen161
+\@IEEEquantizemultiple=\count199
+\@IEEEquantizeboxA=\box51
+\@IEEEtmpitemindent=\dimen162
+\IEEEPARstartletwidth=\dimen163
+\c@IEEEbiography=\count266
+\@IEEEtranrubishbin=\box52
+)
+** ATTENTION: Overriding command lockouts (line 2).
+(c:/texlive/2023/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+) (c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen164
+)) (c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen165
+) (c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count267
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count268
+\leftroot@=\count269
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count270
+\DOTSCASE@=\count271
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen166
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count272
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count273
+\dotsspace@=\muskip16
+\c@parentequation=\count274
+\dspbrk@lvl=\count275
+\tag@help=\toks19
+\row@=\count276
+\column@=\count277
+\maxfields@=\count278
+\andhelp@=\toks20
+\eqnshift@=\dimen167
+\alignsep@=\dimen168
+\tagshift@=\dimen169
+\tagwidth@=\dimen170
+\totwidth@=\dimen171
+\lineht@=\dimen172
+\@envbody=\toks21
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (c:/texlive/2023/texmf-dist/tex/latex/algorithms/algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+ (c:/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+) (c:/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks23
+)
+\c@ALC@unique=\count279
+\c@ALC@line=\count280
+\c@ALC@rem=\count281
+\c@ALC@depth=\count282
+\ALC@tlm=\skip54
+\algorithmicindent=\skip55
+) (c:/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (c:/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (c:/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen173
+\Gin@req@width=\dimen174
+) (c:/texlive/2023/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (c:/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+ (c:/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (c:/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+) (c:/texlive/2023/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip56
+\subfigcapskip=\skip57
+\subfigcaptopadj=\dimen175
+\subfigbottomskip=\skip58
+\subfigcapmargin=\dimen176
+\subfiglabelskip=\skip59
+\c@subfigure=\count283
+\c@lofdepth=\count284
+\c@subtable=\count285
+\c@lotdepth=\count286
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(c:/texlive/2023/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip60
+\subfig@bottom=\skip61
+) (c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-11-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count287
+\l__pdf_internal_box=\box55
+) (./conference_101719.aux)
+\openout1 = `conference_101719.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+
+-- Lines per column: 56 (exact).
+(c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count288
+\scratchdimen=\dimen177
+\scratchbox=\box56
+\nofMPsegments=\count289
+\nofMParguments=\count290
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count291
+\MPscratchDim=\dimen178
+\MPnumerator=\count292
+\makeMPintoPDFobject=\count293
+\everyMPtoPDFconversion=\toks25
+) (c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (c:/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+c:/Users/justi/Documents/GitHub/EE_5561_Image_Processing/EE 5561 Notes/Files/Projects/Project 2/Serdoncillo_project2/conference_101719.tex:24: Missing } inserted.
+<inserted text> 
+                }
+l.24 \maketitle
+               
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/justi/Documents/GitHub/EE_5561_Image_Processing/EE 5561 Notes/Files/Projects/Project 2/Serdoncillo_project2/conference_101719.tex:24: Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.24 \maketitle
+               
+I'm guessing that you meant to end an alignment here.
+
+c:/Users/justi/Documents/GitHub/EE_5561_Image_Processing/EE 5561 Notes/Files/Projects/Project 2/Serdoncillo_project2/conference_101719.tex:24: Misplaced \crcr.
+\IEEEauthorblockA ...lockAinterlinespace }#1\crcr 
+                                                  \ifCLASSOPTIONtransmag \gd...
+l.24 \maketitle
+               
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/justi/Documents/GitHub/EE_5561_Image_Processing/EE 5561 Notes/Files/Projects/Project 2/Serdoncillo_project2/conference_101719.tex:24: Misplaced \crcr.
+\end@IEEEauthorhalign ->\crcr 
+                              \egroup \egroup 
+l.24 \maketitle
+               
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/justi/Documents/GitHub/EE_5561_Image_Processing/EE 5561 Notes/Files/Projects/Project 2/Serdoncillo_project2/conference_101719.tex:24: Extra }, or forgotten \endgroup.
+\end@IEEEauthorhalign ->\crcr \egroup \egroup 
+                                              
+l.24 \maketitle
+               
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/justi/Documents/GitHub/EE_5561_Image_Processing/EE 5561 Notes/Files/Projects/Project 2/Serdoncillo_project2/conference_101719.tex:24: Missing } inserted.
+<inserted text> 
+                }
+l.24 \maketitle
+               
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/justi/Documents/GitHub/EE_5561_Image_Processing/EE 5561 Notes/Files/Projects/Project 2/Serdoncillo_project2/conference_101719.tex:24: Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.24 \maketitle
+               
+I'm guessing that you meant to end an alignment here.
+
+c:/Users/justi/Documents/GitHub/EE_5561_Image_Processing/EE 5561 Notes/Files/Projects/Project 2/Serdoncillo_project2/conference_101719.tex:24: Misplaced \crcr.
+\IEEEauthorblockA ...lockAinterlinespace }#1\crcr 
+                                                  \ifCLASSOPTIONtransmag \gd...
+l.24 \maketitle
+               
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/justi/Documents/GitHub/EE_5561_Image_Processing/EE 5561 Notes/Files/Projects/Project 2/Serdoncillo_project2/conference_101719.tex:24: Misplaced \crcr.
+\end@IEEEauthorhalign ->\crcr 
+                              \egroup \egroup 
+l.24 \maketitle
+               
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/justi/Documents/GitHub/EE_5561_Image_Processing/EE 5561 Notes/Files/Projects/Project 2/Serdoncillo_project2/conference_101719.tex:24: Extra }, or forgotten \endgroup.
+\end@IEEEauthorhalign ->\crcr \egroup \egroup 
+                                              
+l.24 \maketitle
+               
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/justi/Documents/GitHub/EE_5561_Image_Processing/EE 5561 Notes/Files/Projects/Project 2/Serdoncillo_project2/conference_101719.tex:24: Missing } inserted.
+<inserted text> 
+                }
+l.24 \maketitle
+               
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/justi/Documents/GitHub/EE_5561_Image_Processing/EE 5561 Notes/Files/Projects/Project 2/Serdoncillo_project2/conference_101719.tex:24: Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.24 \maketitle
+               
+I'm guessing that you meant to end an alignment here.
+
+c:/Users/justi/Documents/GitHub/EE_5561_Image_Processing/EE 5561 Notes/Files/Projects/Project 2/Serdoncillo_project2/conference_101719.tex:24: Misplaced \crcr.
+\IEEEauthorblockA ...lockAinterlinespace }#1\crcr 
+                                                  \ifCLASSOPTIONtransmag \gd...
+l.24 \maketitle
+               
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/justi/Documents/GitHub/EE_5561_Image_Processing/EE 5561 Notes/Files/Projects/Project 2/Serdoncillo_project2/conference_101719.tex:24: Misplaced \crcr.
+\end@IEEEauthorhalign ->\crcr 
+                              \egroup \egroup 
+l.24 \maketitle
+               
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/justi/Documents/GitHub/EE_5561_Image_Processing/EE 5561 Notes/Files/Projects/Project 2/Serdoncillo_project2/conference_101719.tex:24: Extra }, or forgotten \endgroup.
+\end@IEEEauthorhalign ->\crcr \egroup \egroup 
+                                              
+l.24 \maketitle
+               
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+LaTeX Warning: Citation `gf' on page 1 undefined on input line 44.
+
+
+LaTeX Warning: Citation `mf' on page 1 undefined on input line 45.
+
+
+LaTeX Warning: Citation `tvd' on page 1 undefined on input line 45.
+
+
+LaTeX Warning: Citation `ave' on page 1 undefined on input line 48.
+
+
+LaTeX Warning: Citation `source' on page 1 undefined on input line 50.
+
+
+LaTeX Warning: Citation `mf' on page 1 undefined on input line 57.
+
+
+LaTeX Warning: Citation `g' on page 1 undefined on input line 58.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 64.
+(c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 64.
+ (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+LaTeX Warning: Citation `source' on page 1 undefined on input line 64.
+
+<images/paper/nl1.png, id=1, 349.305pt x 183.68625pt>
+File: images/paper/nl1.png Graphic file (type png)
+<use images/paper/nl1.png>
+Package pdftex.def Info: images/paper/nl1.png  used on input line 76.
+(pdftex.def)             Requested size: 206.39685pt x 108.53648pt.
+
+LaTeX Warning: Citation `review' on page 1 undefined on input line 77.
+
+<images/paper/w.png, id=3, 645.74583pt x 321.86917pt>
+File: images/paper/w.png Graphic file (type png)
+<use images/paper/w.png>
+Package pdftex.def Info: images/paper/w.png  used on input line 90.
+(pdftex.def)             Requested size: 206.39685pt x 102.87744pt.
+
+LaTeX Warning: Citation `source' on page 1 undefined on input line 91.
+
+[1{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}
+
+
+]
+<images/lena5120.png, id=22, 200.75pt x 200.75pt>
+File: images/lena5120.png Graphic file (type png)
+<use images/lena5120.png>
+Package pdftex.def Info: images/lena5120.png  used on input line 107.
+(pdftex.def)             Requested size: 103.19843pt x 103.20207pt.
+<images/man0.png, id=23, 200.75pt x 200.75pt>
+File: images/man0.png Graphic file (type png)
+<use images/man0.png>
+Package pdftex.def Info: images/man0.png  used on input line 108.
+(pdftex.def)             Requested size: 103.19843pt x 103.20207pt.
+<images/eight0.png, id=24, 200.75pt x 200.75pt>
+File: images/eight0.png Graphic file (type png)
+<use images/eight0.png>
+Package pdftex.def Info: images/eight0.png  used on input line 109.
+(pdftex.def)             Requested size: 103.19843pt x 103.20207pt.
+<images/cameraman0.png, id=25, 200.75pt x 200.75pt>
+File: images/cameraman0.png Graphic file (type png)
+<use images/cameraman0.png>
+Package pdftex.def Info: images/cameraman0.png  used on input line 110.
+(pdftex.def)             Requested size: 103.19843pt x 103.20207pt.
+<images/noised/g0.png, id=26, 200.75pt x 200.75pt>
+File: images/noised/g0.png Graphic file (type png)
+<use images/noised/g0.png>
+Package pdftex.def Info: images/noised/g0.png  used on input line 118.
+(pdftex.def)             Requested size: 103.19843pt x 103.20207pt.
+<images/noised/g1.png, id=27, 200.75pt x 200.75pt>
+File: images/noised/g1.png Graphic file (type png)
+<use images/noised/g1.png>
+Package pdftex.def Info: images/noised/g1.png  used on input line 119.
+(pdftex.def)             Requested size: 103.19843pt x 103.20207pt.
+<images/noised/g2.png, id=28, 200.75pt x 200.75pt>
+File: images/noised/g2.png Graphic file (type png)
+<use images/noised/g2.png>
+Package pdftex.def Info: images/noised/g2.png  used on input line 120.
+(pdftex.def)             Requested size: 103.19843pt x 103.20207pt.
+<images/noised/g3.png, id=29, 200.75pt x 200.75pt>
+File: images/noised/g3.png Graphic file (type png)
+<use images/noised/g3.png>
+Package pdftex.def Info: images/noised/g3.png  used on input line 121.
+(pdftex.def)             Requested size: 103.19843pt x 103.20207pt.
+<images/noised/s0.png, id=30, 200.75pt x 200.75pt>
+File: images/noised/s0.png Graphic file (type png)
+<use images/noised/s0.png>
+Package pdftex.def Info: images/noised/s0.png  used on input line 129.
+(pdftex.def)             Requested size: 103.19843pt x 103.20207pt.
+<images/noised/s1.png, id=31, 200.75pt x 200.75pt>
+File: images/noised/s1.png Graphic file (type png)
+<use images/noised/s1.png>
+Package pdftex.def Info: images/noised/s1.png  used on input line 130.
+(pdftex.def)             Requested size: 103.19843pt x 103.20207pt.
+<images/noised/s2.png, id=32, 200.75pt x 200.75pt>
+File: images/noised/s2.png Graphic file (type png)
+<use images/noised/s2.png>
+Package pdftex.def Info: images/noised/s2.png  used on input line 131.
+(pdftex.def)             Requested size: 103.19843pt x 103.20207pt.
+<images/noised/s3.png, id=33, 200.75pt x 200.75pt>
+File: images/noised/s3.png Graphic file (type png)
+<use images/noised/s3.png>
+Package pdftex.def Info: images/noised/s3.png  used on input line 132.
+(pdftex.def)             Requested size: 103.19843pt x 103.20207pt.
+<images/denoised/gnl0.png, id=34, 200.75pt x 200.75pt>
+File: images/denoised/gnl0.png Graphic file (type png)
+<use images/denoised/gnl0.png>
+Package pdftex.def Info: images/denoised/gnl0.png  used on input line 143.
+(pdftex.def)             Requested size: 103.19843pt x 103.20207pt.
+<images/denoised/gnl1.png, id=35, 200.75pt x 200.75pt>
+File: images/denoised/gnl1.png Graphic file (type png)
+<use images/denoised/gnl1.png>
+Package pdftex.def Info: images/denoised/gnl1.png  used on input line 144.
+(pdftex.def)             Requested size: 103.19843pt x 103.20207pt.
+<images/denoised/gnl2.png, id=36, 200.75pt x 200.75pt>
+File: images/denoised/gnl2.png Graphic file (type png)
+<use images/denoised/gnl2.png>
+Package pdftex.def Info: images/denoised/gnl2.png  used on input line 145.
+(pdftex.def)             Requested size: 103.19843pt x 103.20207pt.
+<images/denoised/gnl3.png, id=37, 200.75pt x 200.75pt>
+File: images/denoised/gnl3.png Graphic file (type png)
+<use images/denoised/gnl3.png>
+Package pdftex.def Info: images/denoised/gnl3.png  used on input line 146.
+(pdftex.def)             Requested size: 103.19843pt x 103.20207pt.
+ [2 <./images/paper/nl1.png> <./images/paper/w.png> <./images/lena5120.png (PNG copy)> <./images/man0.png (PNG copy)> <./images/eight0.png (PNG copy)> <./images/cameraman0.png (PNG copy)> <./images/noised/g0.png (PNG copy)> <./images/noised/g1.png (PNG copy)> <./images/noised/g2.png (PNG copy)> <./images/noised/g3.png (PNG copy)>] [3 <./images/noised/s0.png (PNG copy)> <./images/noised/s1.png (PNG copy)> <./images/noised/s2.png (PNG copy)> <./images/noised/s3.png (PNG copy)> <./images/denoised/gnl0.png (PNG copy)> <./images/denoised/gnl1.png (PNG copy)> <./images/denoised/gnl2.png (PNG copy)> <./images/denoised/gnl3.png (PNG copy)>]
+<images/hyper/g0.png, id=46, 200.75pt x 200.75pt>
+File: images/hyper/g0.png Graphic file (type png)
+<use images/hyper/g0.png>
+Package pdftex.def Info: images/hyper/g0.png  used on input line 274.
+(pdftex.def)             Requested size: 67.08252pt x 67.08394pt.
+<images/hyper/g1.png, id=47, 200.75pt x 200.75pt>
+File: images/hyper/g1.png Graphic file (type png)
+<use images/hyper/g1.png>
+Package pdftex.def Info: images/hyper/g1.png  used on input line 275.
+(pdftex.def)             Requested size: 67.08252pt x 67.08394pt.
+<images/hyper/g2.png, id=48, 200.75pt x 200.75pt>
+File: images/hyper/g2.png Graphic file (type png)
+<use images/hyper/g2.png>
+Package pdftex.def Info: images/hyper/g2.png  used on input line 276.
+(pdftex.def)             Requested size: 67.08252pt x 67.08394pt.
+<images/hyper/g3.png, id=49, 200.75pt x 200.75pt>
+File: images/hyper/g3.png Graphic file (type png)
+<use images/hyper/g3.png>
+Package pdftex.def Info: images/hyper/g3.png  used on input line 277.
+(pdftex.def)             Requested size: 67.08252pt x 67.08394pt.
+<images/hyper/g4.png, id=50, 200.75pt x 200.75pt>
+File: images/hyper/g4.png Graphic file (type png)
+<use images/hyper/g4.png>
+Package pdftex.def Info: images/hyper/g4.png  used on input line 278.
+(pdftex.def)             Requested size: 67.08252pt x 67.08394pt.
+<images/hyper/g5.png, id=51, 200.75pt x 200.75pt>
+File: images/hyper/g5.png Graphic file (type png)
+<use images/hyper/g5.png>
+Package pdftex.def Info: images/hyper/g5.png  used on input line 279.
+(pdftex.def)             Requested size: 67.08252pt x 67.08394pt.
+ [4 <./images/hyper/g0.png (PNG copy)> <./images/hyper/g1.png (PNG copy)> <./images/hyper/g2.png (PNG copy)> <./images/hyper/g3.png (PNG copy)> <./images/hyper/g4.png (PNG copy)> <./images/hyper/g5.png (PNG copy)>]
+c:/Users/justi/Documents/GitHub/EE_5561_Image_Processing/EE 5561 Notes/Files/Projects/Project 2/Serdoncillo_project2/conference_101719.tex:331: Misplaced alignment tab character &.
+l.331 \bibitem{gf} Lindenbaum, M., Fischer, M., &
+                                                  Bruckstein, A. (1994). On ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/justi/Documents/GitHub/EE_5561_Image_Processing/EE 5561 Notes/Files/Projects/Project 2/Serdoncillo_project2/conference_101719.tex:333: Misplaced alignment tab character &.
+l.333 \bibitem{tvd} Rudin, L. I., Osher, S., &
+                                               Fatemi, E. (1992). Nonlinear ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/justi/Documents/GitHub/EE_5561_Image_Processing/EE 5561 Notes/Files/Projects/Project 2/Serdoncillo_project2/conference_101719.tex:337: Misplaced alignment tab character &.
+l.337 \bibitem{mf} Chan, R. H., Ho, C. W., &
+                                             Nikolova, M. (2005). Salt-and-p...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/justi/Documents/GitHub/EE_5561_Image_Processing/EE 5561 Notes/Files/Projects/Project 2/Serdoncillo_project2/conference_101719.tex:339: Misplaced alignment tab character &.
+l.339 ... Chtcheglova, L., Riethmueller, C., ... &
+                                                   Hinterdorfer, P. (2006). ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[5
+
+] (./conference_101719.aux)
+ ***********
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4534 strings out of 474267
+ 72448 string characters out of 5751470
+ 1953558 words of memory out of 5000000
+ 26697 multiletter control sequences out of 15000+600000
+ 598817 words of font info for 114 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,10n,65p,500b,310s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on conference_101719.pdf (5 pages, 3112141 bytes).
+PDF statistics:
+ 113 PDF objects out of 1000 (max. 8388607)
+ 53 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+
