@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Files/Lectures/Lecture24 - Transformers.pdf"
+                "file": "Files/syllabus.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Lectures/Lecture24 - Transformers.pdf",
+                "file": "Files/syllabus.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/Lectures/Lecture24 - Transformers.pdf",
+                "file": "Files/syllabus.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/Lectures/Lecture24 - Transformers.pdf"
+                "file": "Files/syllabus.pdf"
               }
             }
           },
@@ -164,6 +164,10 @@
   },
   "active": "7001fce077b99caf",
   "lastOpenFiles": [
+    "Files/Lectures/Lecture21 - CNN Architectures2_RegressionTasks.pdf",
+    "Files/Lectures/Lecture20 - Classification_CNN Architectures.pdf",
+    "Files/syllabus.pdf",
+    "Files/Lectures/Lecture24 - Transformers.pdf",
     "Files/Lectures/Lecture13 - PatchProcessing_LowRankModels.pdf",
     "Files/Projects/Project 2/Serdoncillo_project2/Serdoncillo_project2.zip",
     "Files/Projects/Project 2/Serdoncillo_project2/Serdoncillo_project2.pdf",
@@ -181,10 +185,6 @@
     "Files/Projects/Project 2/Serdoncillo_project2/Serdoncillo_project2/images/noised/g1.png",
     "Files/Projects/Project 2/Serdoncillo_project2/Serdoncillo_project2/images/noised",
     "Files/Projects/Project 2/Serdoncillo_project2/Serdoncillo_project2/images/hyper",
-    "Files/Projects/Project 2/Serdoncillo_project2/Serdoncillo_project2/images/denoised",
-    "Files/Projects/Project 2/Serdoncillo_project2/Serdoncillo_project2/images",
-    "Files/Projects/Project 2/Serdoncillo_project2/Serdoncillo_project2/conference_101719.pdf",
-    "Files/Projects/Project 2/Serdoncillo_project2/Serdoncillo_project2/PersonalNoise.py",
     "Project 2 Notes.md",
     "Lecture 9 Notes.md",
     "Lecture 7 Notes.md",
